@@ -91,13 +91,13 @@ To get started with the project:
 Take a look at the project in action! Here are some screenshots and visual examples of how the Real-Time Location Tracker works:
 
 - **Dashboard View:**  
-  ![Dashboard](path/to/dashboard-screenshot.png)
+  ![Dashboard](Images/Capture3.PNG)
   
 - **Real-Time Map:**  
-  ![Real-Time Map](path/to/realtime-map-screenshot.png)
+  ![Real-Time Map](Images/Capture1.PNG)
   
 - **User Tracking:**  
-  ![User Tracking](path/to/user-tracking-screenshot.png)
+  ![User Tracking](Images/Capture2.PNG)
 
 *Note: Replace the paths above with actual image URLs or paths in your repository.*
 
