@@ -91,7 +91,7 @@ To get started with the project:
 Take a look at the project in action! Here are some screenshots and visual examples of how the Real-Time Location Tracker works:
 
 - **Dashboard View:**  
-  ![Dashboard](Images/Capture3.PNG)
+  ![Dashboard](Capture3.PNG)
   
 - **Real-Time Map:**  
   ![Real-Time Map](Images/Capture1.PNG)
